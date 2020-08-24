@@ -1,0 +1,6 @@
+Data Peserta Sanbercode Bootcamp ReactJS
+1. Nama: Ferdynal
+2. Email: buildwithnal@gmail.com
+3. Sistem Operasi yang digunakan: Windows
+4. Akun Gitlab: buildwithnal
+5. Akun Telegram: Ferdynal

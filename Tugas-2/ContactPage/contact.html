@@ -1,0 +1,48 @@
+<html>
+  <head>
+    <link href="contact.css" rel="stylesheet" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Slabo+27px"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="wrapper">
+      <div>
+        <h1>Hubungi Kami</h1>
+        <p>
+          <b>Kantor:</b> dijalan belum jadi <br />
+          <b>Nomor Telepon:</b> 08XX-XXXX-XXXX<br />
+          <b>Email:</b> buildwithnal@gmail.com
+        </p>
+      </div>
+      <div>
+        <h1>Kirimkan Pesan</h1>
+        <form action="">
+          <label for="fname"><b>Nama</b></label>
+          <input type="text" id="fname" name="fname" /><br /><br />
+          <label for="email"><b>Email</b></label>
+          <input type="email" id="email" name="email" /><br />
+          <br />
+
+          <div class="radio-gender">
+            <label id="gender" " for="gender"><b>Jenis kelamin</b></label>
+            <div>
+              <input type="radio" id="male" name="gender" value="male" checked="checked" />
+              <label for="male">Laki-laki</label><br />
+              <input type="radio" id="female" name="gender" value="female" />
+              <label for="female">Perempuan</label>
+            </div>
+          </div>
+          <br />
+          <br />
+          <label id="message" for="message"><b>Pesan Anda</b></label>
+          <textarea name="message" rows="5" cols="40"></textarea
+          > <br> <br>
+          <input type="submit" value="Kirim" />
+        </form>
+      </div>
+      <a href="../index.html">Kembali Ke Index</a>
+    </div>
+  </body>
+</html>

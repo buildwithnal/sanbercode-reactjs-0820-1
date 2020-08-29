@@ -61,25 +61,25 @@ var dataBuah = [
   {
     nama: "strawberry",
     warna: "merah",
-    adaBijinya: "tidak",
+    adaBijinya: false,
     harga: 9000,
   },
   {
     nama: "jeruk",
     warna: "oranye",
-    adaBijinya: "ada",
+    adaBijinya: true,
     harga: 8000,
   },
   {
     nama: "semangka",
     warna: "hijau & merah",
-    adaBijinya: "ada",
+    adaBijinya: true,
     harga: 10000,
   },
   {
     nama: "pisang",
     warna: "kuning",
-    adaBijinya: "tidak",
+    adaBijinya: false,
     harga: 5000,
   },
 ];
